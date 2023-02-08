@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1675821472504,1947,POST_GetToken,200,,Grupo de Usuários 1-1,text,true,,605,285,1,1,https://yav2-qa.yesaccount.com/login,1941,0,1012
+1675821474477,4799,Post Create Factures,201,,Grupo de Usuários 1-1,text,true,,4803,1821,1,1,https://yav2-qa.yesaccount.com/companies/2/invoices,4799,0,0
+1675821487461,2047,POST_GetToken,200,,Grupo de Usuários 1-2,text,true,,605,285,1,1,https://yav2-qa.yesaccount.com/login,2046,0,922
+1675821489509,4451,Post Create Factures,201,,Grupo de Usuários 1-2,text,true,,4803,1827,1,1,https://yav2-qa.yesaccount.com/companies/2/invoices,4450,0,0
+1675821502466,1788,POST_GetToken,200,,Grupo de Usuários 1-3,text,true,,605,285,1,1,https://yav2-qa.yesaccount.com/login,1788,0,667
+1675821504255,4405,Post Create Factures,201,,Grupo de Usuários 1-3,text,true,,4803,1833,1,1,https://yav2-qa.yesaccount.com/companies/2/invoices,4404,0,0
+1675821517462,1762,POST_GetToken,200,,Grupo de Usuários 1-4,text,true,,605,285,1,1,https://yav2-qa.yesaccount.com/login,1762,0,718
+1675821519227,4793,Post Create Factures,201,,Grupo de Usuários 1-4,text,true,,4803,1830,1,1,https://yav2-qa.yesaccount.com/companies/2/invoices,4793,0,0
+1675821532459,1824,POST_GetToken,200,,Grupo de Usuários 1-5,text,true,,605,285,1,1,https://yav2-qa.yesaccount.com/login,1824,0,879
+1675821534285,4178,Post Create Factures,201,,Grupo de Usuários 1-5,text,true,,4803,1821,1,1,https://yav2-qa.yesaccount.com/companies/2/invoices,4177,0,0
