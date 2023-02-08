@@ -1,0 +1,1 @@
+jmeter  -n -t  Estudo.jmx  -l Result.csv -e -o /Users/rafaelsuzano/git/JmeterFiducial/report/
