@@ -1,10 +1,20 @@
-1675821472504,1947,POST_GetToken,200,,Grupo de Usuários 1-1,text,true,605,1,1,1941
-1675821474477,4799,Post Create Factures,201,,Grupo de Usuários 1-1,text,true,4803,1,1,4799
-1675821487461,2047,POST_GetToken,200,,Grupo de Usuários 1-2,text,true,605,1,1,2046
-1675821489509,4451,Post Create Factures,201,,Grupo de Usuários 1-2,text,true,4803,1,1,4450
-1675821502466,1788,POST_GetToken,200,,Grupo de Usuários 1-3,text,true,605,1,1,1788
-1675821504255,4405,Post Create Factures,201,,Grupo de Usuários 1-3,text,true,4803,1,1,4404
-1675821517462,1762,POST_GetToken,200,,Grupo de Usuários 1-4,text,true,605,1,1,1762
-1675821519227,4793,Post Create Factures,201,,Grupo de Usuários 1-4,text,true,4803,1,1,4793
-1675821532459,1824,POST_GetToken,200,,Grupo de Usuários 1-5,text,true,605,1,1,1824
-1675821534285,4178,Post Create Factures,201,,Grupo de Usuários 1-5,text,true,4803,1,1,4177
+1675823389519,2005,POST_GetToken,200,,Grupo de Usuários Create Factures 1-1,text,true,605,1,1,1996
+1675823391553,4469,Post Create Factures,201,,Grupo de Usuários Create Factures 1-1,text,true,4803,1,1,4468
+1675823396138,1724,POST_GetToken,200,,Grupo de Usuários Create Factures 1-2,text,true,605,1,1,1723
+1675823397863,6554,Post Create Factures,201,,Grupo de Usuários Create Factures 1-2,text,true,4803,2,2,6553
+1675823402814,2046,POST_GetToken,200,,Grupo de Usuários Create Factures 1-3,text,true,605,1,1,2046
+1675823404862,4788,Post Create Factures,201,,Grupo de Usuários Create Factures 1-3,text,true,4803,2,2,4787
+1675823409489,2197,POST_GetToken,200,,Grupo de Usuários Create Factures 1-4,text,true,605,1,1,2196
+1675823411687,4520,Post Create Factures,201,,Grupo de Usuários Create Factures 1-4,text,true,4803,2,2,4519
+1675823416152,2600,POST_GetToken,200,,Grupo de Usuários Create Factures 1-5,text,true,605,1,1,2600
+1675823418755,4531,Post Create Factures,201,,Grupo de Usuários Create Factures 1-5,text,true,4803,2,2,4531
+1675823422818,1749,POST_GetToken,200,,Grupo de Usuários Create Factures 1-6,text,true,605,1,1,1749
+1675823424571,4516,Post Create Factures,201,,Grupo de Usuários Create Factures 1-6,text,true,4803,1,1,4516
+1675823429490,2589,POST_GetToken,200,,Grupo de Usuários Create Factures 1-7,text,true,605,1,1,2589
+1675823432084,4595,Post Create Factures,201,,Grupo de Usuários Create Factures 1-7,text,true,4803,2,2,4595
+1675823436153,1535,POST_GetToken,200,,Grupo de Usuários Create Factures 1-8,text,true,605,1,1,1535
+1675823437689,4381,Post Create Factures,201,,Grupo de Usuários Create Factures 1-8,text,true,4803,1,1,4380
+1675823442816,1627,POST_GetToken,200,,Grupo de Usuários Create Factures 1-9,text,true,605,1,1,1626
+1675823444444,4422,Post Create Factures,201,,Grupo de Usuários Create Factures 1-9,text,true,4803,1,1,4422
+1675823449478,2118,POST_GetToken,200,,Grupo de Usuários Create Factures 1-10,text,true,605,1,1,2117
+1675823451598,4459,Post Create Factures,201,,Grupo de Usuários Create Factures 1-10,text,true,4803,1,1,4458
